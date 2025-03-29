@@ -1,5 +1,5 @@
 # auto_reload
-Auto reload plugin for ImHex, 200~700ms for a 100kb file
+Auto file reload plugin for ImHex, 200~700ms for a 100kb file
 
 
 ```bash
