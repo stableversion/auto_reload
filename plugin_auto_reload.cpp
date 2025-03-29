@@ -124,7 +124,7 @@ namespace hex::plugin::auto_reload {
 
 using namespace hex::plugin::auto_reload;
 
-IMHEX_PLUGIN_SETUP("Auto Reload", "AIR", "Fast auto reload!") {
+IMHEX_PLUGIN_SETUP("Auto Reload", "stableversion", "Fast auto reload!") {
     
     ContentRegistry::BackgroundServices::registerService("hex.builtin.background_service.auto_reload", autoReloadService);
     
